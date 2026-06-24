@@ -1,2 +1,13 @@
-# Cloud-Security-SOC-projects
-A collection of SOC and Cloud Security projects featuring AWS, Microsoft Azure, Microsoft Sentinel, Wazuh, Splunk, and n8n automation workflows. Includes security monitoring, SIEM integrations, incident detection, cloud security implementations, and automated response solutions.
+# SOC and Cloud Security Projects
+
+## Projects
+- AWS CloudTrail Monitoring
+- IAM User Creation Alert Automation
+- Wazuh SIEM Automation
+- Splunk Alert Automation
+- Microsoft Sentinel Project
+- n8n Security Workflows
+- Secure Login System
+
+## Tools Used
+AWS • Azure • Microsoft Sentinel • Wazuh • Splunk • n8n • Python • Linux
